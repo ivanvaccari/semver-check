@@ -31,7 +31,7 @@ function App() {
         <h1>Semver check</h1>
         <div className='pt-3'>
             Online semantic version checker. <br></br>
-            This check uses <a href='https://www.npmjs.com/package/semver'> the semver package</a> to check a provided version againsta a constraint.
+            This check uses <a href='https://www.npmjs.com/package/semver'> the semver package</a> to check a provided version against a constraint.
         </div>
         <div className='row pt-3'>
             <div className='col-12 col-sm-6'>
